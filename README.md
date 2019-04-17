@@ -44,4 +44,4 @@
 
 ## 連結
 
-[Jupyter nbviewer 連結](https://nbviewer.jupyter.org/github/p61402/DSAI_HW1/blob/master/HW1/Encoder-Decoder%20LSTM%20with%20Multivariate%20Input.ipynb) 
+[Jupyter nbviewer 連結](https://nbviewer.jupyter.org/github/p61402/DSAI_HW1_Time_Series_Forecasting/blob/master/HW1/Encoder-Decoder%20LSTM%20with%20Multivariate%20Input.ipynb) 
